@@ -19,7 +19,7 @@ A Telegram bot that sends daily stock updates (price, daily change, and weekly c
 
 ## Installation
 
-### Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/fatihyardak/TelegramStockNotifier.git
 cd TelegramStockNotifier

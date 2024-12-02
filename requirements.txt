@@ -1,0 +1,6 @@
+alpha_vantage
+pandas
+matplotlib
+python-dotenv
+requests
+telebot
